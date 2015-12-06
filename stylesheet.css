@@ -1,0 +1,29 @@
+/*CSS Stylesheet*/
+
+body {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+#fp-nav {
+    position: absolute;
+    top: 45px;
+    left: 90px;
+    z-index: 12;   
+}
+
+#fp-nav ul li a {
+    background: white;
+    border: 2px solid red;
+    
+}
+
+.section img {
+    width: 100vw;
+    height: 100vh;
+}
+
+
